@@ -82,7 +82,7 @@ header a {
 
 header .inner {
   display: flex;
-  background-color: #fff;
+  background-color:red;
   justify-content: space-between;
   padding: 15px 20px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.35);
