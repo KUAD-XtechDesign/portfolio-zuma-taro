@@ -95,7 +95,7 @@ footer
 ======================================================*/
 footer {
   background-color:red;
-  color:#fff;
+  color:black;
   text-align: center;
   padding: 20px;
   font-size: 200px;
@@ -142,7 +142,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color:black;
   font-weight: bold;
 }
 
